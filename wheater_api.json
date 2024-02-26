@@ -1,0 +1,98 @@
+{
+    "1": {
+        "estado": "Lluvia moderada",
+        "ciudad": "Buenos Aires",
+        "maxima": "25\u00b0",
+        "minima": "21\u00b0"
+    },
+    "2": {
+        "estado": "Tormentas",
+        "ciudad": "Comodoro Rivadavia",
+        "maxima": "20\u00b0",
+        "minima": "13\u00b0"
+    },
+    "3": {
+        "estado": "Cielos Nubosos",
+        "ciudad": "C\u00f3rdoba",
+        "maxima": "28\u00b0",
+        "minima": "19\u00b0"
+    },
+    "4": {
+        "estado": "Tormentas",
+        "ciudad": "Corrientes",
+        "maxima": "32\u00b0",
+        "minima": "25\u00b0"
+    },
+    "5": {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "Formosa",
+        "maxima": "34\u00b0",
+        "minima": "26\u00b0"
+    },
+    "6": {
+        "estado": "Lluvia moderada",
+        "ciudad": "La Plata",
+        "maxima": "25\u00b0",
+        "minima": "21\u00b0"
+    },
+    "7": {
+        "estado": "Intervalos nubosos",
+        "ciudad": "Mendoza",
+        "maxima": "31\u00b0",
+        "minima": "19\u00b0"
+    },
+    "8": {
+        "estado": "Cielos Nubosos",
+        "ciudad": "Neuqu\u00e9n",
+        "maxima": "30\u00b0",
+        "minima": "18\u00b0"
+    },
+    "9": {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "Paran\u00e1",
+        "maxima": "28\u00b0",
+        "minima": "22\u00b0"
+    },
+    "10": {
+        "estado": "Tormentas",
+        "ciudad": "Posadas",
+        "maxima": "33\u00b0",
+        "minima": "25\u00b0"
+    },
+    "11": {
+        "estado": "Tormentas",
+        "ciudad": "Resistencia",
+        "maxima": "32\u00b0",
+        "minima": "25\u00b0"
+    },
+    "12": {
+        "estado": "Tormentas",
+        "ciudad": "Salta",
+        "maxima": "26\u00b0",
+        "minima": "18\u00b0"
+    },
+    "13": {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "San Luis",
+        "maxima": "29\u00b0",
+        "minima": "18\u00b0"
+    },
+    "14": {
+        "estado": "Tormentas",
+        "ciudad": "San Miguel de Tucum\u00e1n",
+        "maxima": "29\u00b0",
+        "minima": "21\u00b0"
+    },
+    "15": {
+        "estado": "Tormentas",
+        "ciudad": "Santa Fe",
+        "maxima": "29\u00b0",
+        "minima": "22\u00b0"
+    },
+    "16": {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "Santa Rosa",
+        "maxima": "27\u00b0",
+        "minima": "19\u00b0"
+    }
+}
