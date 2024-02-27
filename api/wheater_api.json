@@ -1,0 +1,101 @@
+{
+"wheater": [
+    {
+        "estado": "Cielos Nubosos",
+        "ciudad": "Buenos Aires",
+        "maxima": "27\u00b0",
+        "minima": "20\u00b0"
+    },
+    {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "Comodoro Rivadavia",
+        "maxima": "20\u00b0",
+        "minima": "13\u00b0"
+    },
+    {
+        "estado": "Cielos Nubosos",
+        "ciudad": "C\u00f3rdoba",
+        "maxima": "30\u00b0",
+        "minima": "19\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Corrientes",
+        "maxima": "31\u00b0",
+        "minima": "25\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Formosa",
+        "maxima": "32\u00b0",
+        "minima": "25\u00b0"
+    },
+    {
+        "estado": "Cielos Nubosos",
+        "ciudad": "La Plata",
+        "maxima": "27\u00b0",
+        "minima": "19\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Mendoza",
+        "maxima": "31\u00b0",
+        "minima": "20\u00b0"
+    },
+    {
+        "estado": "Despejado",
+        "ciudad": "Neuqu\u00e9n",
+        "maxima": "32\u00b0",
+        "minima": "15\u00b0"
+    },
+    {
+        "estado": "Lluvia d\u00e9bil",
+        "ciudad": "Paran\u00e1",
+        "maxima": "29\u00b0",
+        "minima": "21\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Posadas",
+        "maxima": "30\u00b0",
+        "minima": "24\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Resistencia",
+        "maxima": "31\u00b0",
+        "minima": "24\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "Salta",
+        "maxima": "25\u00b0",
+        "minima": "19\u00b0"
+    },
+    {
+        "estado": "Intervalos nubosos",
+        "ciudad": "San Luis",
+        "maxima": "31\u00b0",
+        "minima": "19\u00b0"
+    },
+    {
+        "estado": "Tormentas",
+        "ciudad": "San Miguel de Tucum\u00e1n",
+        "maxima": "27\u00b0",
+        "minima": "22\u00b0"
+    },
+    {
+        "estado": "Cielos Nubosos",
+        "ciudad": "Santa Fe",
+        "maxima": "29\u00b0",
+        "minima": "22\u00b0"
+    },
+    {
+        "estado": "Despejado",
+        "ciudad": "Santa Rosa",
+        "maxima": "31\u00b0",
+        "minima": "17\u00b0"
+    }
+	
+]
+}
