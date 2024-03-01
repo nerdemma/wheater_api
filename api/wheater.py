@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-	
+
 # wheater generator api
 # created by @nerdemma https://github.com/nerdemma/wheater_api
 	
@@ -15,7 +15,7 @@ def get_wheater_list(url):
 	page = requests.get(url)
 	soup = BeautifulSoup(page.content, "html.parser")
 	wl_counter=0
-	
+		
 	principal = soup.find("ul",class_="princ-ciudades")
 	lista = principal.find_all("span",class_="datos") 
 
@@ -73,5 +73,5 @@ for details in data_details:
 
 wheater_json = {'wheater':wheater_list}
 
-with open('wheater_json.json', 'w') as json_file:
+with open('argentina.json', 'w') as json_file:
 	json.dump(wheater_json, json_file, indent=4)

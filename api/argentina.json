@@ -1,0 +1,100 @@
+{
+    "wheater": [
+        {
+            "estado": "Cielos Nubosos",
+            "ciudad": "Buenos Aires",
+            "maxima": "27\u00b0",
+            "minima": "21\u00b0"
+        },
+        {
+            "estado": "Cielos Nubosos",
+            "ciudad": "Comodoro Rivadavia",
+            "maxima": "25\u00b0",
+            "minima": "14\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "C\u00f3rdoba",
+            "maxima": "31\u00b0",
+            "minima": "21\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "Corrientes",
+            "maxima": "32\u00b0",
+            "minima": "22\u00b0"
+        },
+        {
+            "estado": "Tormentas",
+            "ciudad": "Formosa",
+            "maxima": "33\u00b0",
+            "minima": "23\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "La Plata",
+            "maxima": "27\u00b0",
+            "minima": "19\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "Mendoza",
+            "maxima": "30\u00b0",
+            "minima": "20\u00b0"
+        },
+        {
+            "estado": "Intervalos nubosos",
+            "ciudad": "Neuqu\u00e9n",
+            "maxima": "33\u00b0",
+            "minima": "20\u00b0"
+        },
+        {
+            "estado": "Intervalos nubosos",
+            "ciudad": "Paran\u00e1",
+            "maxima": "31\u00b0",
+            "minima": "21\u00b0"
+        },
+        {
+            "estado": "Intervalos nubosos",
+            "ciudad": "Posadas",
+            "maxima": "31\u00b0",
+            "minima": "22\u00b0"
+        },
+        {
+            "estado": "Tormentas",
+            "ciudad": "Resistencia",
+            "maxima": "32\u00b0",
+            "minima": "22\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "Salta",
+            "maxima": "29\u00b0",
+            "minima": "17\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "San Luis",
+            "maxima": "32\u00b0",
+            "minima": "21\u00b0"
+        },
+        {
+            "estado": "Lluvia d\u00e9bil",
+            "ciudad": "San Miguel de Tucum\u00e1n",
+            "maxima": "31\u00b0",
+            "minima": "21\u00b0"
+        },
+        {
+            "estado": "Intervalos nubosos",
+            "ciudad": "Santa Fe",
+            "maxima": "31\u00b0",
+            "minima": "22\u00b0"
+        },
+        {
+            "estado": "Tormentas",
+            "ciudad": "Santa Rosa",
+            "maxima": "28\u00b0",
+            "minima": "17\u00b0"
+        }
+    ]
+}

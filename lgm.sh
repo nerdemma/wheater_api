@@ -9,4 +9,4 @@
 resultado=${wheater}
 echo "$resultado"
 	
-
+"./wheatercity.sh"
